@@ -1,12 +1,11 @@
 # ReadMe
+https://yotuba088.netlify.com/
 
-## What
-owned blog created by yotuba088
+## Description(まとめ)
+ポートフォリオ用に作成したブログです。
 
-## Demo
-
-## Requirement
+## Requirement(技術一覧)
 - React
-- Gatsby(use gatsby-starter-gcn)
+- Gatsby(gatsby-starter-gcn)　静的サイトジェネレータ
 - Contentful(Headless CMS)
 - Netlify(hosting)
