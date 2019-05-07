@@ -60,6 +60,11 @@ const Menu = () => {
             </Link>
           </li>
           <li>
+            <a href ="https://yotuba088.github.io/portfolio/" >
+              Portfolio
+            </a>
+          </li>
+          <li>
             <Link to="/contact/" activeStyle={activeLinkStyle}>
               Contact
             </Link>
